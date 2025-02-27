@@ -1,8 +1,16 @@
 機能１のファイル
 feature-0001 commit
 1
+
 two
 三
 four
 5
 六
+
+2
+3
+4
+5
+6
+
